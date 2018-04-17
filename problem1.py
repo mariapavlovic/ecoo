@@ -27,20 +27,3 @@ while counter < 10:
 
     counter += 1
 
-
-
-
-
-
-
-# while count <= numDays:
-#     count += 1
-#     newLine = file.readline()
-#     if newLine[0] == "E":
-#         daysPass +=1
-#     elif newLine[0] == "B":
-#         daysPass += 1
-#         print(daysPass)
-#         print(daysPlay)
-#         daysTo = daysPass + daysPlay
-#         print(daysTo)
